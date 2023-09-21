@@ -1,2 +1,2 @@
-# Project
-project
+# Project on handling missing values in a dataset
+This project focuses on addressing missing data in datasets using Python. It will explore various techniques for detecting and handling missing values, ensuring data integrity for accurate analysis. By implementing data imputation and visualization methods, we aim to equip data analysts with essential skills to effectively manage missing data challenges.
